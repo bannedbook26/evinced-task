@@ -1,0 +1,1 @@
+All commits in this repository are mine. The project shows two GitHub accounts (Digvorzhak and bannedbook26) because of my local Git configuration at the time. I created the new bannedbook26 account specifically for this home exercise.
