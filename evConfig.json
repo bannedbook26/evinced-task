@@ -1,0 +1,7 @@
+{
+  "reporterOptions": {
+    "reportFormat": "html",
+    "fileName": "aggregatedReportForRun.html",
+    "outputDir": "./evinced-reports"
+  }
+}
